@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - Generative Design Engine",
+  "description": "A next-generation presentation tool that uses algorithmic layout engines (Golden Ratio, Rule of Thirds) and Gemini AI to generate bespoke, non-templated slide decks.",
+  "requestFramePermissions": []
+}
